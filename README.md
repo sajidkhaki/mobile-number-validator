@@ -1,7 +1,7 @@
 <!-- PROJECT Intro -->
 <br />
 <div align="center">
-  <h3 align="center">customer-validation React App/h3>
+  <h3 align="center">customer-validation React App</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
