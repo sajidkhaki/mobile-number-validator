@@ -52,13 +52,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage:
 
-   ```
-1. Start Project (Make sure you have the latest reacts version installed
+````
+1. Start Project (Make sure you have the latest react version installed
 2. Make sure backend API is running in background.
 ```sh
 npm install
 npm start
-```
+````
 
 3. Goto http://localhost:3001
 
