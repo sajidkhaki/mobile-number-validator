@@ -54,6 +54,7 @@ To get a local copy up and running follow these simple example steps.
 
    ```
 1. Start Project (Make sure you have the latest reacts version installed
+2. Make sure backend API is running in background.
 ```sh
 npm install
 npm start
